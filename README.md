@@ -15,7 +15,8 @@
     - cmd
     - python server.py
 
-### Faça um tunelamento com ngrok e mude o ip e a porta do arquivo "client.py" para o endereço e porta criados no ngrok
+### Para usar em rede externa
+    - Faça um tunelamento com ngrok e mude o ip e a porta do arquivo "client.py" para o endereço e porta criados no ngrok
 
 ### Execute o arquivo "server.py" e coloque seu ip e a porta de sua preferência
 
